@@ -7,6 +7,7 @@ With this JavaScript file it is possible to analyze the JSONP file of the DWD an
 With this JSONP File its only possible to show weather warnings for a district not for a single city. 
 
 ### Example - Preview:
+(i) Shows the output for a random region in Germany:
 ![Shows the output for a random region in Germany](example.png)
 
 ### Change warncellid

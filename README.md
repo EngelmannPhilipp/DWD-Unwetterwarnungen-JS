@@ -26,5 +26,3 @@ var warncellid = '123456789';
 # Info
 This is my first open source project and also my first JS project. If you have any suggestions for improvement or tips,... please let me know :) 
 
-# License
-**Free Software, Hell Yeah!**

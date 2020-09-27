@@ -9,7 +9,7 @@ With this JSONP File its only possible to show weather warnings for a district n
 ### Change warncellid
 Find your warncellid here: https://www.dwd.de/DE/leistungen/opendata/help/warnungen/cap_warncellids_csv.html
 ```js
-55: var warncellid = '109172000';
+var warncellid = '109172000';
 ```
 
 ### HTML File

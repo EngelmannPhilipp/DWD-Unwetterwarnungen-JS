@@ -1,5 +1,5 @@
 // (C) Philipp Engelmann, MIT licensed
-// https://github.com/DasFlappi/
+// https://github.com/EngelmannPhilipp/
 
 var requestURL = 'http://www.dwd.de/DWD/warnungen/warnapp/json/warnings.json';
 var warncellid = '123456789';
